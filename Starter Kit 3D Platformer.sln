@@ -1,0 +1,11 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter_Kit_3D_Platformer.Windows", "Starter_Kit_3D_Platformer.Windows\Starter_Kit_3D_Platformer.Windows.csproj", "{7D605667-8E46-41D8-B4B5-57550610152F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter_Kit_3D_Platformer", "Starter_Kit_3D_Platformer\Starter_Kit_3D_Platformer.csproj", "{EB35DCC7-6474-4F0D-A1A7-C9DEE1CE5E8F}"
+EndProject
+Global
+EndGlobal
